@@ -1,0 +1,5 @@
+model,dataset,ROC_AUC_mean,ROC_AUC_std,Balanced_Accuracy_mean,Balanced_Accuracy_std,Precision_mean,Precision_std,Recall_mean,Recall_std,F1_mean,F1_std,MCC_mean,MCC_std
+RandomForest,target_TGFbeta_R1_ALK5,0.9755,0.0045,0.8523,0.0199,0.9631,0.0056,0.967,0.0096,0.965,0.0048,0.7145,0.0372
+HistGradientBoosting,target_TGFbeta_R1_ALK5,0.9602,0.0051,0.8218,0.0323,0.9538,0.009,0.9816,0.0065,0.9675,0.0025,0.7134,0.0296
+SVM,target_TGFbeta_R1_ALK5,0.9731,0.004,0.8814,0.0152,0.9725,0.0043,0.9543,0.0079,0.9633,0.0043,0.7242,0.0293
+GradientBoosting,target_TGFbeta_R1_ALK5,0.9512,0.006,0.7541,0.0343,0.9361,0.0085,0.986,0.006,0.9604,0.0052,0.628,0.0587

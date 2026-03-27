@@ -1,0 +1,5 @@
+model,dataset,ROC_AUC_mean,ROC_AUC_std,Balanced_Accuracy_mean,Balanced_Accuracy_std,Precision_mean,Precision_std,Recall_mean,Recall_std,F1_mean,F1_std,MCC_mean,MCC_std
+RandomForest,target_Endothelin_R_A,0.9693,0.0097,0.831,0.0159,0.973,0.0028,0.9797,0.0065,0.9763,0.0019,0.6895,0.0123
+HistGradientBoosting,target_Endothelin_R_A,0.9634,0.0098,0.7802,0.0179,0.9641,0.0028,0.9908,0.0039,0.9773,0.0011,0.6732,0.0157
+SVM,target_Endothelin_R_A,0.9664,0.0097,0.8596,0.0128,0.9784,0.0021,0.9685,0.0033,0.9734,0.002,0.6836,0.0219
+GradientBoosting,target_Endothelin_R_A,0.916,0.0156,0.69,0.0317,0.9499,0.0048,0.9916,0.0038,0.9703,0.0014,0.5335,0.0381

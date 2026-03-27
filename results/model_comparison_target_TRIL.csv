@@ -1,0 +1,5 @@
+model,dataset,ROC_AUC_mean,ROC_AUC_std,Balanced_Accuracy_mean,Balanced_Accuracy_std,Precision_mean,Precision_std,Recall_mean,Recall_std,F1_mean,F1_std,MCC_mean,MCC_std
+RandomForest,target_TRIL,0.97,0.0108,0.9023,0.0131,0.9421,0.017,0.9339,0.0176,0.9377,0.0049,0.8012,0.0168
+HistGradientBoosting,target_TRIL,0.9605,0.0129,0.8989,0.0208,0.9283,0.0122,0.9642,0.0208,0.9459,0.0147,0.8194,0.0477
+SVM,target_TRIL,0.9678,0.0103,0.9071,0.0239,0.9469,0.0178,0.9312,0.0215,0.9388,0.0152,0.8066,0.0475
+GradientBoosting,target_TRIL,0.9566,0.0167,0.8902,0.0254,0.9255,0.0182,0.9533,0.0329,0.9389,0.0168,0.7983,0.0575

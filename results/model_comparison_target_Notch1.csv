@@ -1,0 +1,5 @@
+model,dataset,ROC_AUC_mean,ROC_AUC_std,Balanced_Accuracy_mean,Balanced_Accuracy_std,Precision_mean,Precision_std,Recall_mean,Recall_std,F1_mean,F1_std,MCC_mean,MCC_std
+RandomForest,target_Notch1,,,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+HistGradientBoosting,target_Notch1,0.5,,0.89,0.2191,0.99,0.0224,0.99,0.0224,0.9897,0.014,0.0,0.0
+SVM,target_Notch1,,,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+GradientBoosting,target_Notch1,,,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
